@@ -1,4 +1,7 @@
 # README #
+Name: Riley Easton
+
+Style: Stylized
 
 Naming Convention
 (AssetType) _ (AssetName) _ (CreatorInitials) _ (Version)
