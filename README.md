@@ -1,7 +1,7 @@
 # README #
 
 Naming Convention
-(AssetType)_(AssetName)_(CreatorInitials)_(Version)
+(AssetType) _ (AssetName) _ (CreatorInitials) _ (Version)
 
 example
 Model_Car_RE_01
