@@ -3,7 +3,7 @@
 Naming Convention
 (AssetType) _ (AssetName) _ (CreatorInitials) _ (Version)
 
-example
+Example
 Model_Car_RE_01
 
 list of assets from asset store
@@ -19,3 +19,6 @@ https://assetstore.unity.com/packages/3d/environments/lowpoly-environment-nature
 
 FREE Skybox Extended Shader
 https://assetstore.unity.com/packages/vfx/shaders/free-skybox-extended-shader-107400
+
+Free Stylized Textures
+https://assetstore.unity.com/packages/2d/textures-materials/free-stylized-textures-204742
