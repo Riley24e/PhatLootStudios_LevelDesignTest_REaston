@@ -26,3 +26,6 @@ https://assetstore.unity.com/packages/2d/textures-materials/free-stylized-textur
 Tent Pack
 https://assetstore.unity.com/packages/3d/environments/fantasy/tent-pack-19370
 
+Boats - PolyPack
+https://assetstore.unity.com/packages/3d/vehicles/sea/boats-polypack-189866
+
