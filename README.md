@@ -3,7 +3,7 @@
 Naming Convention
 (AssetType)_(AssetName)_(CreatorInitials)_(Version)
 
-exsample
+example
 Model_Car_RE_01
 
 list of assets from asset store
