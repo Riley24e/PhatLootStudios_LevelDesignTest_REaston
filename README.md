@@ -22,3 +22,7 @@ https://assetstore.unity.com/packages/vfx/shaders/free-skybox-extended-shader-10
 
 Free Stylized Textures
 https://assetstore.unity.com/packages/2d/textures-materials/free-stylized-textures-204742
+
+Tent Pack
+https://assetstore.unity.com/packages/3d/environments/fantasy/tent-pack-19370
+
